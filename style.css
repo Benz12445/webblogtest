@@ -1,0 +1,35 @@
+*{
+   margin:0;
+   padding:0; 
+}
+
+.headText{
+     font-family: 'Playfair Display', serif;
+     font-weight: bold;
+     
+}
+.travel-section-head h3{
+    text-align: center;
+}
+.travel-section-head{
+    margin-top:35px;
+}
+.travel-section-content{
+    margin-top:25px;
+}
+.content-section{
+    margin-top:35px;
+    
+}
+.promotion-section{
+    margin-top:35px;
+}
+.nav-main li{
+
+   margin: -10px auto;
+
+}
+.bodyText{
+    font-family: 'Krub', sans-serif;
+
+}
